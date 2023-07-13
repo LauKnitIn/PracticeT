@@ -4,7 +4,7 @@ public class Executable {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner (System.in);//Creating Scanner for data input
-		
+
 		/*Constants to define highest score,
 		 *average score and lowest score */
 		final int HIGHEST = 1;
@@ -43,7 +43,7 @@ public class Executable {
 				}
 			}
 		}
-		
+
 	}
-	
+
 }
